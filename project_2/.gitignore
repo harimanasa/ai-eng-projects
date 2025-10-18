@@ -1,0 +1,5 @@
+*.backup
+faiss_index/
+app.py
+*.pyc
+__pycache__/
